@@ -7,3 +7,7 @@
     3. 'git push'
 
     Remember... this is all within the Gitbash Terminal of the specified project folder
+
+    OR
+
+    Use VSCode source control found on the bar on the left side of the window
